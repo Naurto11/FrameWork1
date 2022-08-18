@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="11" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="140934" started-at="2022-07-18T10:51:49Z" finished-at="2022-07-18T10:54:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="140934" started-at="2022-07-18T10:51:49Z" finished-at="2022-07-18T10:54:10Z">
+      <class name="org.test.TestNg">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.test.TestNg@20d3d15a]" name="browserLaunch" is-config="true" duration-ms="4393" started-at="2022-07-18T10:53:09Z" finished-at="2022-07-18T10:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.test.TestNg@20d3d15a]" name="startstime" is-config="true" duration-ms="2629" started-at="2022-07-18T10:53:13Z" finished-at="2022-07-18T10:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:org.test.TestNg@20d3d15a]" name="testCase1" duration-ms="289" started-at="2022-07-18T10:53:16Z" finished-at="2022-07-18T10:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.test.TestNg@20d3d15a]" name="endsTime" is-config="true" duration-ms="3005" started-at="2022-07-18T10:53:16Z" finished-at="2022-07-18T10:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.test.TestNg@20d3d15a]" name="startstime" is-config="true" duration-ms="15618" started-at="2022-07-18T10:53:19Z" finished-at="2022-07-18T10:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:org.test.TestNg@20d3d15a]" name="testCase2" duration-ms="3317" started-at="2022-07-18T10:53:35Z" finished-at="2022-07-18T10:53:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.test.TestNg@20d3d15a]" name="endsTime" is-config="true" duration-ms="3013" started-at="2022-07-18T10:53:38Z" finished-at="2022-07-18T10:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.test.TestNg@20d3d15a]" name="startstime" is-config="true" duration-ms="25437" started-at="2022-07-18T10:53:41Z" finished-at="2022-07-18T10:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="testCase4()[pri:0, instance:org.test.TestNg@20d3d15a]" name="testCase4" duration-ms="292" started-at="2022-07-18T10:54:07Z" finished-at="2022-07-18T10:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.test.TestNg@20d3d15a]" name="endsTime" is-config="true" duration-ms="3001" started-at="2022-07-18T10:54:07Z" finished-at="2022-07-18T10:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.test.TestNg@20d3d15a]" name="browserClose" is-config="true" duration-ms="172" started-at="2022-07-18T10:54:10Z" finished-at="2022-07-18T10:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- org.test.TestNg -->
+      <class name="org.test.Project2">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.test.Project2@214b199c]" name="browserLaunch" is-config="true" duration-ms="3830" started-at="2022-07-18T10:51:49Z" finished-at="2022-07-18T10:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.test.Project2@214b199c]" name="startstime" is-config="true" duration-ms="4397" started-at="2022-07-18T10:51:53Z" finished-at="2022-07-18T10:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="tessCase2()[pri:0, instance:org.test.Project2@214b199c]" name="tessCase2" duration-ms="5965" started-at="2022-07-18T10:51:57Z" finished-at="2022-07-18T10:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tessCase2 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.test.Project2@214b199c]" name="endsTime" is-config="true" duration-ms="3004" started-at="2022-07-18T10:52:03Z" finished-at="2022-07-18T10:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.test.Project2@214b199c]" name="startstime" is-config="true" duration-ms="3530" started-at="2022-07-18T10:52:06Z" finished-at="2022-07-18T10:52:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:org.test.Project2@214b199c]" name="testCase1" duration-ms="5450" started-at="2022-07-18T10:52:10Z" finished-at="2022-07-18T10:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.test.Project2@214b199c]" name="endsTime" is-config="true" duration-ms="3012" started-at="2022-07-18T10:52:15Z" finished-at="2022-07-18T10:52:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.test.Project2@214b199c]" name="startstime" is-config="true" duration-ms="2362" started-at="2022-07-18T10:52:18Z" finished-at="2022-07-18T10:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:org.test.Project2@214b199c]" name="testCase3" duration-ms="5386" started-at="2022-07-18T10:52:21Z" finished-at="2022-07-18T10:52:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.test.Project2@214b199c]" name="endsTime" is-config="true" duration-ms="3013" started-at="2022-07-18T10:52:26Z" finished-at="2022-07-18T10:52:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.test.Project2@214b199c]" name="startstime" is-config="true" duration-ms="6235" started-at="2022-07-18T10:52:29Z" finished-at="2022-07-18T10:52:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="testCase4()[pri:0, instance:org.test.Project2@214b199c]" name="testCase4" duration-ms="5455" started-at="2022-07-18T10:52:35Z" finished-at="2022-07-18T10:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.test.Project2@214b199c]" name="endsTime" is-config="true" duration-ms="3009" started-at="2022-07-18T10:52:41Z" finished-at="2022-07-18T10:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.test.Project2@214b199c]" name="startstime" is-config="true" duration-ms="2108" started-at="2022-07-18T10:52:44Z" finished-at="2022-07-18T10:52:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="testCase5()[pri:0, instance:org.test.Project2@214b199c]" name="testCase5" duration-ms="5421" started-at="2022-07-18T10:52:46Z" finished-at="2022-07-18T10:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.test.Project2@214b199c]" name="endsTime" is-config="true" duration-ms="3011" started-at="2022-07-18T10:52:51Z" finished-at="2022-07-18T10:52:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.test.Project2@214b199c]" name="startstime" is-config="true" duration-ms="1612" started-at="2022-07-18T10:52:54Z" finished-at="2022-07-18T10:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="testCase7()[pri:0, instance:org.test.Project2@214b199c]" name="testCase7" duration-ms="5619" started-at="2022-07-18T10:52:56Z" finished-at="2022-07-18T10:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.test.Project2@214b199c]" name="endsTime" is-config="true" duration-ms="3013" started-at="2022-07-18T10:53:02Z" finished-at="2022-07-18T10:53:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.test.Project2@214b199c]" name="browserClose" is-config="true" duration-ms="4238" started-at="2022-07-18T10:53:05Z" finished-at="2022-07-18T10:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- org.test.Project2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
